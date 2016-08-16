@@ -9,7 +9,7 @@
 - [ ] THOR
 
 ## Installed Languages
-- [O] Go
+- [o] Go
 - [ ] Haskell
 - [ ] Python
 - [ ] Scala
