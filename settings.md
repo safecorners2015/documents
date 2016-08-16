@@ -1,13 +1,15 @@
 # Settings
 
-## Setting up default env
+## set default env.
 - [ ] SSH
 - [ ] ZSH
 - [ ] VIM
 - [ ] TMUX
+- [ ] DOCKER
+- [ ] THOR
 
 ## Installed Languages
-- [ ] Go
+- [O] Go
 - [ ] Haskell
 - [ ] Python
 - [ ] Scala
